@@ -1,0 +1,15 @@
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\bin\Debug\BinitaDotNet.exe.config
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\bin\Debug\BinitaDotNet.exe
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\bin\Debug\BinitaDotNet.pdb
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.csproj.AssemblyReference.cache
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.Form1.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.Properties.Resources.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.csproj.GenerateResource.cache
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.csproj.CoreCompileInputs.cache
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.exe
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.pdb
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.home.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.registerstudent.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.Poly.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.VirtualDemo.resources
+D:\Binita Dotnet\BinitaDotNet\BinitaDotNet\obj\Debug\BinitaDotNet.DisplayStudent.resources
