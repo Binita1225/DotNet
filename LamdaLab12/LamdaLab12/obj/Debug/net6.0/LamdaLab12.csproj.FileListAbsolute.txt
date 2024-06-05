@@ -1,0 +1,14 @@
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\bin\Debug\net6.0\LamdaLab12.exe
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\bin\Debug\net6.0\LamdaLab12.deps.json
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\bin\Debug\net6.0\LamdaLab12.runtimeconfig.json
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\bin\Debug\net6.0\LamdaLab12.dll
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\bin\Debug\net6.0\LamdaLab12.pdb
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.AssemblyInfoInputs.cache
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.AssemblyInfo.cs
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.csproj.CoreCompileInputs.cache
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.dll
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\refint\LamdaLab12.dll
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.pdb
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\LamdaLab12.genruntimeconfig.cache
+D:\Binita Dotnet\LamdaLab12\LamdaLab12\obj\Debug\net6.0\ref\LamdaLab12.dll

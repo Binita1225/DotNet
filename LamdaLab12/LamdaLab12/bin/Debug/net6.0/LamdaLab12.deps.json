@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LamdaLab12/1.0.0": {
+        "runtime": {
+          "LamdaLab12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LamdaLab12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
