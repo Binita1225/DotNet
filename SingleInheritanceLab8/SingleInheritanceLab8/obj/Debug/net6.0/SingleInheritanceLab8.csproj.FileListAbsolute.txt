@@ -1,0 +1,14 @@
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\bin\Debug\net6.0\SingleInheritanceLab8.exe
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\bin\Debug\net6.0\SingleInheritanceLab8.deps.json
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\bin\Debug\net6.0\SingleInheritanceLab8.runtimeconfig.json
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\bin\Debug\net6.0\SingleInheritanceLab8.dll
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\bin\Debug\net6.0\SingleInheritanceLab8.pdb
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.AssemblyInfoInputs.cache
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.AssemblyInfo.cs
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.csproj.CoreCompileInputs.cache
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.dll
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\refint\SingleInheritanceLab8.dll
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.pdb
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\SingleInheritanceLab8.genruntimeconfig.cache
+D:\Binita Dotnet\SingleInheritanceLab8\SingleInheritanceLab8\obj\Debug\net6.0\ref\SingleInheritanceLab8.dll
