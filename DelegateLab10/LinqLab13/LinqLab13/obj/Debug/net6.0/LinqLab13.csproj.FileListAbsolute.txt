@@ -1,0 +1,14 @@
+D:\Binita Dotnet\LinqLab13\LinqLab13\bin\Debug\net6.0\LinqLab13.exe
+D:\Binita Dotnet\LinqLab13\LinqLab13\bin\Debug\net6.0\LinqLab13.deps.json
+D:\Binita Dotnet\LinqLab13\LinqLab13\bin\Debug\net6.0\LinqLab13.runtimeconfig.json
+D:\Binita Dotnet\LinqLab13\LinqLab13\bin\Debug\net6.0\LinqLab13.dll
+D:\Binita Dotnet\LinqLab13\LinqLab13\bin\Debug\net6.0\LinqLab13.pdb
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.AssemblyInfoInputs.cache
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.AssemblyInfo.cs
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.csproj.CoreCompileInputs.cache
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.dll
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\refint\LinqLab13.dll
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.pdb
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\LinqLab13.genruntimeconfig.cache
+D:\Binita Dotnet\LinqLab13\LinqLab13\obj\Debug\net6.0\ref\LinqLab13.dll

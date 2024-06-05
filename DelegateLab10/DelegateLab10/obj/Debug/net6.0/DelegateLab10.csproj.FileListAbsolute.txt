@@ -1,0 +1,14 @@
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\bin\Debug\net6.0\DelegateLab10.exe
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\bin\Debug\net6.0\DelegateLab10.deps.json
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\bin\Debug\net6.0\DelegateLab10.runtimeconfig.json
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\bin\Debug\net6.0\DelegateLab10.dll
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\bin\Debug\net6.0\DelegateLab10.pdb
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.AssemblyInfoInputs.cache
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.AssemblyInfo.cs
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.csproj.CoreCompileInputs.cache
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.dll
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\refint\DelegateLab10.dll
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.pdb
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\DelegateLab10.genruntimeconfig.cache
+D:\Binita Dotnet\DelegateLab10\DelegateLab10\obj\Debug\net6.0\ref\DelegateLab10.dll
